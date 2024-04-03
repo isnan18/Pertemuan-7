@@ -1,0 +1,9 @@
+1. MCU diprogram untuk berkomunikasi ke SBC via USB.
+
+2. SBC mengirim sinyal button ke Server.
+
+3. Registration Server diprogram untuk mengirimkan sinyal button ke mobil
+
+4. Untuk melihat sinyal button masuk ke Registration Server 1.1.1.1 
+username: cisco
+password: cisco
